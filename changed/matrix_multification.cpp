@@ -7,7 +7,10 @@ int main()
     // new line for git check 
 
 
-    // how this reflect into the git 
+
+    int a,b,c,d;
+    // check
+    
 
     
     int n1,n2,n3;
