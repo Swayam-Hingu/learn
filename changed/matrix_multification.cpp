@@ -3,6 +3,13 @@ using namespace std;
 
 int main()
 {
+
+    // new line for git check 
+
+
+    // how this reflect into the git 
+
+    
     int n1,n2,n3;
     cin >> n1 >> n2 >> n3;
     int a[n1][n2],b[n2][n3];
